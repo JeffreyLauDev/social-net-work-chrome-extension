@@ -1,3 +1,44 @@
 body{
     background-color: white!important;
 }
+
+.PZuss > li{
+    background: #dcffdc;
+}
+
+a.FPmhX.notranslate._0imsa:after {
+    content: "Tlist Loading";
+    /* position: absolute; */
+    color: blue;
+    margin-left: 5px;
+}
+
+
+/* PROFILE NAME */
+.nZSzR > h2._7UhW9.fKFbl.yUEEX.KV-D4.fDxYl{
+
+}
+
+/* .enpQJ:after{
+    position: absolute;
+    content: "";
+    right:0
+} */
+
+.instagram-profile-button{
+    margin-left: 20px;
+    margin-right: -11px;
+}
+.tlist-button{
+    width: 100%;
+    background: linear-gradient(144deg, rgb(16, 157, 89) 0%, rgb(0, 136, 204) 100%);
+    color: white;
+    box-shadow: 0 0 1px 0 rgb(0 0 0 / 31%), 0 2px 2px -2px rgb(0 0 0 / 25%);
+    padding: 6px 16px;
+    font-size: 0.875rem;
+    max-width: 200px;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 600;
+}
