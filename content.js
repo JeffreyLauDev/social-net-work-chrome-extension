@@ -54,7 +54,7 @@ function ReportToTlistButton() {
 
 
     var TlistReportButton = document.createElement('button');
-    TlistReportButton.innerHTML = "😆 Report to Tlist 😍";
+    TlistReportButton.innerHTML = "😆 Report to T-list 😍";
     TlistReportButton.classList.add('tlist-button');
     TlistReportButton.classList.add('instagram-profile-button');
 
